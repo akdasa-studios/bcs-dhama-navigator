@@ -1,0 +1,7 @@
+{
+  "name": "BCS Dhama Navigator",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
