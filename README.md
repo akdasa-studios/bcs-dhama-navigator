@@ -3,7 +3,5 @@
 </p>
 
 <p align="center">
-    <i>Navigation app based on the books of HH Bhakti Chaitanya Swami. Visit all the holy places and don't get lost.</i>
+    <i>Discover India's sacred sites with our navigation app for Dhamas. Explore temples, access interactive maps, and enjoy seamless navigation. Enhance your spiritual journey with ease and reverence in the land of spiritual heritage.</i>
 </p>
-
-
