@@ -7,14 +7,18 @@
     "build": "vue-tsc && vite build",
     "preview": "vite preview",
     "test:unit": "vitest",
-    "lint": "eslint"
+    "lint": "eslint",
+    "gen:resources": "npx capacitor-assets generate --assetPath 'resources' --ios --android"
   },
   "dependencies": {
+    "@capacitor/android": "^5.0.5",
     "@capacitor/app": "5.0.3",
     "@capacitor/core": "5.0.5",
     "@capacitor/haptics": "5.0.4",
+    "@capacitor/ios": "^5.0.5",
     "@capacitor/keyboard": "5.0.4",
     "@capacitor/status-bar": "5.0.4",
+    "@capacitor/assets": "^2.0.4",
     "@ionic/vue": "^7.0.0",
     "@ionic/vue-router": "^7.0.0",
     "ionicons": "^7.0.0",

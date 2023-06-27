@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">BCS Dhama Navigator</string>
+    <string name="title_activity_main">BCS Dhama Navigator</string>
+    <string name="package_name">com.akdasa.bcsdhamanavigator</string>
+    <string name="custom_url_scheme">com.akdasa.bcsdhamanavigator</string>
+</resources>
